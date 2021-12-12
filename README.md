@@ -1,9 +1,13 @@
 ### hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm Sajad Rahimi
-
 <p align="center">
 A Machine Learning lover and Flutter programmer</p>
 </p>
-<br/>
+
+
+<p>
+ 
+</p>
+
 ## 👨🏻‍💻 Somethings that I Love them
 
 <p align="center"> 
