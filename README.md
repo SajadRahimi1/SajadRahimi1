@@ -12,7 +12,6 @@ A Machine Learning lover and Flutter programmer</p>
  
 </p>
 
-
 ## 👨🏻‍💻 Somethings that I Love them
 
 <p align="center"> 
@@ -29,7 +28,8 @@ A Machine Learning lover and Flutter programmer</p>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <br>
  <p>
    
-   </p>
+  </p>
+  
  ## &#x1f4c8; Some stats about me
  <p align="center">
  <img src=https://github-profile-trophy.vercel.app/?username=sajadrahimi1&theme=onedark&row=1 />
