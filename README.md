@@ -22,13 +22,9 @@ A Machine Learning lover and Flutter programmer</p>
        <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- </p> <br>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- </p> <br>
      <a href="https://getfedora.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- </p> <br>
-      <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- </p> <br>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <br>
  
  ## &#x1f4c8; Some stats about me
  <p align="center">
