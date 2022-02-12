@@ -2,7 +2,7 @@
   <img src=https://github.com/SajadRahimi1/SajadRahimi1/raw/main/images/banner.png />
 </p>
 
-### hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sajad Rahimi
+### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sajad Rahimi
 <p align="center">
 A Machine Learning lover and Flutter programmer</p>
 </p>
