@@ -18,7 +18,7 @@ A Flutter developer and try to be backend developer</p>
       <a href="https://www.flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
   <a href="https://www.dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
           <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>  
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="Asp.net" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Asp.net" width="40" height="40"/> </a>
    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/> </a> 
      <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
