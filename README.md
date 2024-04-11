@@ -15,8 +15,6 @@ Flutter and backend developer</p>
 ## 👨🏻‍💻 Somethings that I Love them
 <br><br>
 <p align="center"> 
-      <a href="https://www.flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a>  
-  <a href="https://www.dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Asp.net" width="60" height="60"/> </a>
    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="60" height="60"/> </a> 
      <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/> </a> 
@@ -32,7 +30,7 @@ Flutter and backend developer</p>
    <img src=https://github-readme-streak-stats.herokuapp.com/?user=SajadRahimi1 />
  	  <img src=https://github-readme-stats.vercel.app/api?username=sajadrahimi1&bg_color=191b1f&title_color=FFE569&text_color=46D1FD&line_height=20&hide=["stars"] />
   <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sajadrahimi1&layout=compact&hide_border=true&bg_color=191b1f&title_color=46D1FD&text_color=fff&hide=html,css&langs_count=4 />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sajadrahimi1&layout=compact&hide_border=true&bg_color=191b1f&title_color=46D1FD&text_color=fff&hide=html,css&langs_count=4&hide=["dart"] />
  
  
  
