@@ -4,7 +4,7 @@
 
 ### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sajad Rahimi
 <p align="center">
-Flutter and backend developer</p>
+.Net backend developer</p>
 </p>
 
 
