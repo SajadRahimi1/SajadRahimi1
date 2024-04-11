@@ -30,7 +30,7 @@ Flutter and backend developer</p>
    <img src=https://github-readme-streak-stats.herokuapp.com/?user=SajadRahimi1 />
  	  <img src=https://github-readme-stats.vercel.app/api?username=sajadrahimi1&bg_color=191b1f&title_color=FFE569&text_color=46D1FD&line_height=20&hide=["stars"] />
   <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sajadrahimi1&layout=compact&hide_border=true&bg_color=191b1f&title_color=46D1FD&text_color=fff&hide=html,css&langs_count=4&hide=["dart"] />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sajadrahimi1&layout=compact&hide_border=true&bg_color=191b1f&title_color=46D1FD&text_color=fff&hide=html,css&langs_count=4&hide="dart" />
  
  
  
